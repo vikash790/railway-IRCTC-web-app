@@ -16,5 +16,7 @@ open vscode then open code file
 select terminal : streamlit run irctc.py
 
 # How to run sql file
-open file in MYSQL and run the file
+open file in MYSQL and run the file 
 databse name is rail
+
+# python code
